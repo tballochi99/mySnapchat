@@ -32,7 +32,7 @@ Une application mobile développée pour reproduire les fonctionnalités clés d
 
 1. **Cloner le dépôt :**
    ```bash
-   git clone https://github.com/yourusername/mySnapchat.git
+   git@github.com:tballochi99/mySnapchat.git
    ```
 
 2. **Installer les dépendances :**
